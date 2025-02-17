@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Noor's Dream Attire</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <h1>Noor's Dream Attire</h1>
+            <p>Exquisite Sarees and Three Pieces</p>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#sarees">Sarees</a></li>
+                <li><a href="#threepieces">Three Pieces</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="sarees">
+        <h2>Our Sarees Collection</h2>
+        <p>Explore our wide variety of elegant sarees perfect for every occasion.</p>
+        <!-- Add images or more items as needed -->
+    </section>
+
+    <section id="threepieces">
+        <h2>Three Pieces Collection</h2>
+        <p>Stylish and comfortable three pieces that you will love.</p>
+        <!-- Add images or more items as needed -->
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>For more information, feel free to contact us through:</p>
+        <ul>
+            <li><a href="tel:+8801981719371">Call Us: +8801981719371</a></li>
+            <li><a href="https://wa.me/8801981719371" target="_blank">Contact on WhatsApp</a></li>
+            <li><a href="https://www.facebook.com/profile.php?id=61573069495999" target="_blank">Contact on Facebook</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Noor's Dream Attire. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
